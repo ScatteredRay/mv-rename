@@ -1,13 +1,11 @@
 Let's start with a file
-with some stuff
+Now More
 in it.
 So that we can remove it.
 Later
 
 
 Yay!
-All the stuff I can remove.
-Wouldn't that be great?
-Delete ME
+I did remove
 AND ME!
 end
